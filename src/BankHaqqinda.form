@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="jScrollPane1" min="-2" pref="1091" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="807" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="33" red="ff" type="rgb"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Bank (fr. Banque, k&#xf6;hn&#x259; m&#x259;b&#x259;l&#x259;rd&#x259; S&#x259;rrafxana az&#x259;rb-&#x259;r&#x259;b. &#x635;&#x631;&#x627;&#x641;&#x62e;&#x627;&#x646;&#x647;&#x200e;&#x200e; s&#xf6;z&#xfc; i&#x15f;l&#x259;nirdi) - fiziki v&#x259; h&#xfc;quqi &#x15f;&#x259;xsl&#x259;rd&#x259;n depozitl&#x259;rin &#xa;v&#x259; ya dig&#x259;r qaytar&#x131;lan v&#x259;saitl&#x259;rin c&#x259;lb edilm&#x259;si,&#xa; &#xf6;z ad&#x131;ndan v&#x259; &#xf6;z hesab&#x131;na kreditl&#x259;rin verilm&#x259;si, habel&#x259; m&#xfc;&#x15f;t&#x259;ril&#x259;rin tap&#x15f;&#x131;r&#x131;&#x11f;&#x131; il&#x259; k&#xf6;&#xe7;&#xfc;rm&#x259; &#xa;v&#x259; hesabla&#x15f;ma-kassa &#x259;m&#x259;liyyatlar&#x131;n&#x131; m&#x259;cmu halda h&#x259;yata ke&#xe7;ir&#x259;n maliyy&#x259;-kredit t&#x259;&#x15f;kilat&#x131;. &#xa;H&#xfc;quqi status bax&#x131;m&#x131;ndan h&#xfc;quqi &#x15f;&#x259;xsdir.&#xa;&#xa;Bank &#x2013; pul v&#x259;saitl&#x259;rinin toplanmas&#x131;, kreditl&#x259;rin verilm&#x259;si, pulla hesabla&#x15f;malar&#x131;n h&#x259;yata ke&#xe7;irilm&#x259;si, &#xa;pulun emissiyas&#x131;, m&#xfc;xt&#x259;lif qiym&#x259;tli ka&#x11f;&#x131;zlar&#x131;n burax&#x131;lmas&#x131; v&#x259; s. funksiyalar&#x131;n&#x131; yerin&#x259; yetir&#x259;n iqtisadi t&#x259;&#x15f;kilatlard&#x131;r.&#xa;&#xa;Banklar&#x131;n &#x259;sas v&#x259;zif&#x259;si kreditorlardan borc alanlara, al&#x131;c&#x131;lardan sat&#x131;c&#x131;lara pul v&#x259;saitinin y&#xf6;n&#x259;ldilm&#x259;sind&#x259; vasit&#x259;&#xe7;ilik etm&#x259;kdir.&#xa;&#xa;Banklar ke&#xe7;irdikl&#x259;ri &#x259;m&#x259;liyyatlar&#x131;n xarakterin&#x259; g&#xf6;r&#x259; emissiya v&#x259; kommersiya, &#xa;veril&#x259;n kreditl&#x259;rin xarakterin&#x259; g&#xf6;r&#x259; uzunm&#xfc;dd&#x259;tli v&#x259; q&#x131;sam&#xfc;dd&#x259;tli, &#xa;m&#xfc;lkiyy&#x259;tin xarakterin&#x259; g&#xf6;r&#x259; &#x259;sas&#x259;n d&#xf6;vl&#x259;t, s&#x259;hmdar, kooperativ, &#xa;b&#x259;l&#x259;diyy&#x259; v&#x259; qar&#x131;&#x15f;&#x131;q banklara b&#xf6;l&#xfc;n&#xfc;rl&#x259;r. Bank sistemi pul v&#x259;saitl&#x259;rinin m&#x259;rk&#x259;zl&#x259;&#x15f;m&#x259;sini v&#x259; &#xa;onlar&#x131;n borc kapital&#x131;na &#xe7;evrilm&#x259;sini t&#x259;nziml&#x259;yir.&#xa;T&#xf6;r&#x259;m&#x259; bank &#x2013; nizamnam&#x259; kapital&#x131;nda s&#x259;sverm&#x259; h&#xfc;ququ ver&#x259;n s&#x259;hml&#x259;rin &#x259;llid&#x259;n &#xe7;ox faizi t&#x259;sis&#xe7;i banka v&#x259; ya bank holdinq &#xa;&#x15f;irk&#x259;tin&#x259; m&#x259;xsus olan bankd&#x131;r, &#xa;yaxud el&#x259; bankd&#x131;r ki, onunla t&#x259;sis&#xe7;i bank v&#x259; ya bank holdinq &#x15f;irk&#x259;ti aras&#x131;nda ba&#x11f;lanm&#x131;&#x15f; m&#xfc;qavil&#x259;y&#x259; &#xa;&#x259;sas&#x259;n t&#x259;sis&#xe7;i banka v&#x259; ya bank holdinq &#x15f;irk&#x259;tin&#x259; onun q&#x259;rarlar&#x131;n&#x131;n q&#x259;bul edilm&#x259;sin&#x259; m&#xfc;h&#xfc;m t&#x259;sir g&#xf6;st&#x259;rm&#x259;k imkan&#x131; verilir.&#xa;&#xa;Bank&#x131;n filial&#x131; &#x2013; h&#xfc;quqi &#x15f;&#x259;xs olmayan, bank&#x131;n oldu&#x11f;u yerd&#x259;n k&#x259;narda yerl&#x259;&#x15f;&#x259;n, &#xa;&#xf6;hd&#x259;likl&#x259;ri &#xfc;&#xe7;&#xfc;n bank&#x131;n &#xf6;z&#xfc;n&#xfc;n m&#x259;suliyy&#x259;t da&#x15f;&#x131;d&#x131;&#x11f;&#x131;, banka icaz&#x259; verilmi&#x15f; bank f&#x259;aliyy&#x259;tinin ham&#x131;s&#x131;n&#x131; &#xa;v&#x259; ya bir hiss&#x259;sini h&#x259;yata ke&#xe7;ir&#x259; bil&#x259;n bank&#x131;n ayr&#x131;ca b&#xf6;lm&#x259;sidir.&#xa;&#xa;Bank&#x131;n &#x15f;&#xf6;b&#x259;si - h&#xfc;quqi &#x15f;&#x259;xs olmayan, bank&#x131;n oldu&#x11f;u yerd&#x259;n k&#x259;narda yerl&#x259;&#x15f;&#x259;n, &#xf6;hd&#x259;likl&#x259;ri &#xfc;&#xe7;&#xfc;n &#xa;bank&#x131;n &#xf6;z&#xfc;n&#xfc;n m&#x259;suliyy&#x259;t da&#x15f;&#x131;d&#x131;&#x11f;&#x131;, onun respublika &#x259;razisind&#x259; depozitl&#x259;r c&#x259;lb ed&#x259;n v&#x259;/v&#x259; ya k&#xf6;&#xe7;&#xfc;rm&#x259;, &#xa;hesabla&#x15f;ma-kassa &#x259;m&#x259;liyyatlar&#x131; aparan ayr&#x131;ca b&#xf6;lm&#x259;sidir.&#xa;&#xa;Bank&#x131;n n&#xfc;may&#x259;nd&#x259;liyi &#x2013; h&#xfc;quqi &#x15f;&#x259;xs olmayan, bank&#x131;n oldu&#x11f;u yerd&#x259;n k&#x259;narda yerl&#x259;&#x15f;&#x259;n, bank f&#x259;aliyy&#x259;ti &#xa;il&#x259; m&#x259;&#x15f;&#x11f;ul olma&#x11f;a h&#xfc;ququ olmayan, yaln&#x131;z onun m&#x259;nafel&#x259;rini t&#x259;msil v&#x259; m&#xfc;dafi&#x259; ed&#x259;n bank&#x131;n ayr&#x131;ca b&#xf6;lm&#x259;sidir."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
